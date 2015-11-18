@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/Saurabh/Downloads/SourceFiles-3'
+let g:netrw_dirhist_2='/Users/Saurabh/codes/pracice'
+let g:netrw_dirhist_3='/Users/Saurabh/codes/Arista'
+let g:netrw_dirhist_4='/Users/Saurabh/.vim/doc'
+let g:netrw_dirhist_5='/Users/Saurabh/Desktop/westbon/config'
+let g:netrw_dirhist_6='/Users/Saurabh/Desktop/final_ouput/tmp1'
+let g:netrw_dirhist_7='/Users/Saurabh/Desktop/final_ouput/tmp5'
+let g:netrw_dirhist_8='/Users/Saurabh/.vim/startup'

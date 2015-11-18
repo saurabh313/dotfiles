@@ -20,6 +20,9 @@ call vundle#begin()
     Plugin 'kien/ctrlp.vim'
     Plugin 'tpope/vim-surround'
     Plugin 'scrooloose/nerdcommenter'
+    Plugin 'svermeulen/vim-easyclip'
+    Plugin 'tpope/vim-repeat'
+    Plugin 'Lokaltog/vim-powerline'
     " All of your Plugins must be added before the following line
 call vundle#end()            " required
 filetype plugin indent on    " required
