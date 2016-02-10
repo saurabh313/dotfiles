@@ -13,5 +13,9 @@
     tool = vimdiff
 [difftool]
     prompt = false
+[pull]
+        rebase = true
+[push]
+        default = simple
 #[diff]
 #    external = ~/bin/git_diff_wrapper
