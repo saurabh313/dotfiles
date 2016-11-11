@@ -54,6 +54,7 @@ ZSH_THEME="cobalt2"
 plugins=(git bower sublime brew history node npm sudo web-search)  
 source $ZSH/oh-my-zsh.sh
 
+ . /usr/local/etc/profile.d/z.sh
 # User configuration
 
 # export MANPATH="/usr/local/man:$MANPATH"
